@@ -1,5 +1,5 @@
 # Coffeescript Payment Page
-<img src="http://123Fives.github.io/Payment-Page/images/demo/Payment_Page_Demo1.PNG" />
+<img src="https://github.com/123Fives/Payment-Page/blob/master/images/demo/processing_demo_gif.gif" />
 <table>
 <tr>
 <td>
